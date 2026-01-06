@@ -1,0 +1,5 @@
+{
+  "name": "LMS Admin Dashboard",
+  "description": "A comprehensive admin dashboard for managing students, exams, resources, and notices for the Learning Management System.",
+  "requestFramePermissions": []
+}
